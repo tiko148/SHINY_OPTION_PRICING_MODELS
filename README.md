@@ -1,4 +1,4 @@
-# SHINY_OPTION_PRICING_MODELS
+# SHINY OPTION PRICING MODELS USING BLACK SCHOLES MODEL AND MONTE CARLO SIMULATION
 
 Using the Black Scholes Model, Black Scholes PDE American and Monte Carlo Simulation for Option Pricing. 
 
